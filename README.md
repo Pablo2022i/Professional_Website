@@ -36,7 +36,7 @@ git checkout main —-> move from the current branch to main
 
 git pull origin main —-> take the latest content from main
 
-git checkout ### —-> move from master to your current branch
+git checkout *###*(your local branch) —-> move from master to your current branch
 
 git merge main —-> merging the latest content of main into your branch
 
