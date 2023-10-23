@@ -14,6 +14,10 @@ Diego Flores.
 
 ### Installation
 
+1. Send your GitHub username to add you to the project as a contributor.
+2. Go to https://github.com/Pablo2022i/Professional_Website and then click on “<> Code” (Green button). 
+<img width="1440" alt="Screenshot 2023-10-23 at 3 00 17 PM" src="https://github.com/Pablo2022i/Professional_Website/assets/122491636/4d67a8d6-3eda-4806-b9eb-1e16b4e9f84e">
+
 1. Clone the repo (You could use GitHub Desktop)
 
 ```sh
