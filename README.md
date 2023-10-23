@@ -28,10 +28,7 @@ Diego Flores.
 6. This is what you should see in your IDE:
 <img width="1022" alt="Screenshot 2023-10-23 at 3 19 13 PM" src="https://github.com/Pablo2022i/Professional_Website/assets/122491636/3f0a4380-be7b-4fc1-8171-c6dd876fcd4b">
 
-7. <strong>Make sure to always fetch origin to download any changes into the main index.html or pages before you start coding.</strong> If you don't do this, then you will be working twice because it won't update to the latest changes.
-<img width="955" alt="Screenshot 2023-10-23 at 3 21 51 PM" src="https://github.com/Pablo2022i/Professional_Website/assets/122491636/1f96bc05-7dcc-4dc9-af11-ce03c3bbe602">
-
-8. <strong>IMPORTANT</strong><br>
+7. <strong>IMPORTANT</strong><br>
 Follow this step every time before starting to code!
 To pull all the code from the main file to your branch (main is the source code, and we will merge all our work into this file to finish the project), use this in your terminal:
 
