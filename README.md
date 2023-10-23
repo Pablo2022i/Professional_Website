@@ -16,7 +16,7 @@ Diego Flores.
 
 1. Send your GitHub username to add you to the project as a contributor.
 2. Download GitHub Desktop. https://desktop.github.com/
-3. Go to https://github.com/Pablo2022i/Professional_Website and then click on “<> Code” (Green button). You will have two options: 1.1. Click on "Open on GitHub Desktop" (which will be the easiest one), or clone the repository using the link.
+3. Go to https://github.com/Pablo2022i/Professional_Website and then click on “<> Code” (Green button). You will have two options: 1. Click on "Open on GitHub Desktop" (which will be the easiest one), or 2. clone the repository using the link.
 <img width="1440" alt="Screenshot 2023-10-23 at 3 00 17 PM" src="https://github.com/Pablo2022i/Professional_Website/assets/122491636/4d67a8d6-3eda-4806-b9eb-1e16b4e9f84e">
 
 4. You should be able to see this screen on GitHub Desktop. Now, click on "current branch" and then click on "new branch"; this will let you make changes in your local branch and then merge it into the actual project. 
