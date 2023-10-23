@@ -14,7 +14,7 @@ Diego Flores.
 
 ### Installation
 
-1. Clone the repo
+1. Clone the repo (You could use GitHub Desktop)
 
 ```sh
 git clone [git@github.com:Pablo2022i/Professional_Website.git](https://github.com/Pablo2022i/Professional_Website.git)
