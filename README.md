@@ -33,6 +33,7 @@ Diego Flores.
 
 8. <strong>IMPORTANT</strong><br>
 To pull all the code from the main file to your branch (main is the source code, and we will merge all our work into this file to finish the project), use this in your terminal:
+
 git checkout main —-> move from the current branch to main
 
 git pull origin main —-> take the latest content from main
