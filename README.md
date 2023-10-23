@@ -3,9 +3,9 @@
 ## About the Project
 We will work as a group for this CS220-01 project by creating a professional website for a real or ficticious company. 
 The group members are:
-Nelly Fuerte
-Pablo Chavez
-Diego Flores
+Nelly Fuerte,
+Pablo Chavez,
+Diego Flores.
 
 ## Built With
 -HTML
