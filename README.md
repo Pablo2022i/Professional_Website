@@ -30,7 +30,7 @@ Diego Flores.
 
 7. <strong>IMPORTANT</strong><br>
 Follow this step every time before starting to code!
-To pull all the code from the main file to your branch (main is the source code, and we will merge all our work into this file to finish the project), use this in your terminal: <strong>git pull main</strong>. If that does not work (which won't happen), try this:
+To pull all the code from the main file into your local branch, the one that you created (main is the source code, and we will merge all our work into this file to finish the project), use this in your terminal: <strong>git pull main</strong>. If that does not work (which won't happen), try this:
 
 git checkout main —-> move from the current branch to main
 
