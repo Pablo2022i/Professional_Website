@@ -21,7 +21,7 @@ git clone [git@github.com:Pablo2022i/Professional_Website.git](https://github.co
 ```
 2. open the project with your desired IDE. 
  
-3. Open The html file you will be working on. 
+3. Open the html file you will be working on. 
 
 3. Have fun! Please make a pull request after every change to your branch. For more info, check below! 
 
