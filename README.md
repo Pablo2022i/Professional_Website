@@ -42,6 +42,8 @@ git checkout ### —-> move from master to your current branch
 
 git merge main —-> merging the latest content of main into your branch
 
+<img width="1440" alt="Screenshot 2023-10-23 at 3 45 35 PM" src="https://github.com/Pablo2022i/Professional_Website/assets/122491636/7843786e-6d45-43db-9815-1ce7a2ff19e5">
+
 8. Have fun! Please make a pull request after every change to your branch. For more info, check below! 
 
 
