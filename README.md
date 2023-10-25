@@ -1,7 +1,7 @@
 # Professional_Website
 
 ## About the Project
-We will work as a group for this CS220-01 project by creating a professional website for a real company called "Kolobeat". Each one of us will be focusing on a different html page for the navigation bar, which we will discuss in chat.  
+We will work as a group for this CS220-01 project by creating a professional website for a real company called "Kolobeat", which is a music and lighting company for weddings or social parties. Each one of us will be focusing on a different html page for the navigation bar, which we will discuss in chat.  
 The group members are:
 Nelly Fuerte,
 Pablo Chavez,
@@ -42,7 +42,9 @@ git merge main —-> merging the latest content of main into your branch
 
 <img width="1440" alt="Screenshot 2023-10-23 at 3 45 35 PM" src="https://github.com/Pablo2022i/Professional_Website/assets/122491636/7843786e-6d45-43db-9815-1ce7a2ff19e5">
 
-8. Have fun! Please make a pull request after every change to your branch. For more info, check below! 
+8. Create a Trello account and join our product backlog for the professional website. We will be informing our tasks through this website: https://trello.com/invite/b/mvCB2jqr/ATTI1faedf846b1d56985c6f2ab8709db534C3B5214D/kolobeat-website.
+
+9. Have fun! Please make a pull request after every change to your branch. For more info, check below! 
 
 
 ### Creating A Pull Request
