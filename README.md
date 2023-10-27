@@ -46,8 +46,7 @@ git merge main —-> merging the latest content of main into your branch
 
 9. Have fun! Please make a pull request after every change to your branch. For more info, check below!
 
-10. Due date is November 1st!
-
+10. New step.
 
 ### Creating A Pull Request
 
