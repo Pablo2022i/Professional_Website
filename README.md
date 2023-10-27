@@ -46,7 +46,7 @@ git merge main —-> merging the latest content of main into your branch
 
 9. Have fun! Please make a pull request after every change to your branch. For more info, check below!
 
-10. New Pull request.
+10. New pull request.
 
 ### Creating A Pull Request
 
