@@ -2,26 +2,41 @@
 <html>
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Home</title>
+    <title>Pictures</title>
     <link rel="stylesheet" type="text/css" href="style.css">
     <style>
         #slideshow-container {
             position: relative;
             max-width: 800px;
             margin: auto;
+            margin-top: -40px; 
         }
 
         .slide {
             position: absolute;
             max-width: 100%;
             opacity: 0;
-            transition: opacity 1s; 
+            transition: opacity 1s;
         }
 
         .visible {
             opacity: 1;
         }
-       
+        .button-container {
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        .quote-button {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #00bcd4;
+            color: #fff;
+            text-decoration: none;
+            font-weight: 600;
+            border: none;
+            border-radius: 5px;
+        }
     </style>
 </head>
 <body style="background-color: black;">
@@ -36,17 +51,44 @@
             </ul>
         </nav>
     </div>
+    <section class="contact">
+        <div class="content">
+            <h2 style="font-size: 50px;  margin-top: -70px; ">Welcome to Our Picture Gallery</h2>
+            <br>
+            <h3 style="color: grey; font-size: 31px;"><i>Welcome to the beat</i><br><i>Feel the beat</i></h3>
+            <br>
+            <p style="font-size: 22px;">Our gallery is a testament to the artistry of sound and rhythm, capturing the essence of unique moments and emotions that pulse through each beat. Dive into the diverse spectrum of our music visuals and let the music take you on a visual odyssey.</p>
+            <br><div class="button-container">
+                <a href="contactus.html" class="quote-button">Get a Quote</a>
+            </div>
+        
+        </div>
+    </section>
+
     <div id="slideshow-container">
         <div class="slide visible">
             <img src="images/3.png" alt="Image 1" width="800" height="600">
         </div>
         <div class="slide">
-            <img src="images/4.JPG" alt "Image 2" width="800" height="600">
+            <img src="images/4.JPG" alt="Image 2" width="800" height="600">
         </div>
         <div class="slide">
-            <img src="images/15.png" alt="Image 3" width="800" height="600">
+            <img src="images/IMG_4053.jpg" alt="Image 3" width="800" height="600">
+        </div>
+        <div class="slide">
+            <img src="images/IMG_4055.jpg" alt="Image 3" width="800" height="600">
+        </div>
+        <div class="slide">
+            <img src="images/16.png" alt="Image 3" width="800" height="600">
+        </div>
+        <div class="slide">
+            <img src="images/IMG_9881.JPG" alt="Image 3" width="800" height="600">
+        </div>
+        <div class="slide">
+            <img src="images/IMG_9882.JPG" alt="Image 3" width="800" height="600">
         </div>
     </div>
+    
 
     <script>
         // JavaScript code for the slideshow
